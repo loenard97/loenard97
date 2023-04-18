@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋 I sometimes code stuff for fun in various languages</h3>
 
-<!--
-**loenard97/loenard97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="#x">
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=loenard97&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+</a>
+&nbsp;
+<a href="#x">
+<img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loenard97&layout=compact&theme=dark&langs_count=8"/>
+</a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Credit to: https://github.com/anuraghazra/github-readme-stats for the widgets -->
