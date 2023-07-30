@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋 I sometimes code stuff for fun in various languages</h3>
 <h4 align="center">
-  (mainly <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" style="vertical-align: middle;" width="40" height="40"/> and <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" style="vertical-align: middle;" width="40" height="40"/>, currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" style="vertical-align: middle;" width="40" height="40"/>)
+  (mainly <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" style="vertical-align: middle;" width="25" height="25"/> and <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png" title="Rust" alt="Rust" style="vertical-align: middle;" width="25" height="25"/>, currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" style="vertical-align: middle;" width="25" height="25"/>)
 </h4>
 
 <div align="center">
